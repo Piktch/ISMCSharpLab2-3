@@ -11,7 +11,7 @@ namespace Console_P
         static void Main(string[] args)
         {
             Double p=0.5,v,f;
-            int it=100000000;
+            int it=45;
            //------------------   1   ----------------------------
             p = Math.Sqrt(p);
             v = p;
@@ -62,6 +62,6 @@ namespace Console_P
             Console.ReadLine();
             return;
             Console.ReadLine();
-        }
+        }   
     }
 }
